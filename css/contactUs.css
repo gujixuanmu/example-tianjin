@@ -1,0 +1,90 @@
+.ctUs-banner{
+    margin-top: 0.006em;
+    overflow: hidden;
+    margin-left: -150px;
+}
+
+.ctUS-details{
+    height: 1216px;
+    background-color: #E7ECF2;
+}
+
+.ctUS-details-container{
+    height: 1216px;
+    width: 880px;
+    background-color: #fff;
+    margin:0 auto;
+    position: relative;
+}
+
+.ctUS-details-header{
+    height: 26px;
+    padding-top: 9px;
+    margin-left: 9px;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.ctUS-details-header h3{
+    color: #147A34;
+    float: left;
+}
+
+.ctUS-details-header span{
+    float: left;
+    line-height: 26px;
+}
+
+.ctUS-details-header a{
+    float: left;
+    line-height: 26px;
+    color: #0B398C;
+}
+
+.ctUS-details-container>h3{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:18px;
+    padding-left: 9px;
+    width: 836px;
+    border-bottom: 1px solid #CCC;
+    margin:auto;
+    margin-top: 9px;
+    padding-bottom: 3px;
+}
+
+.ctUS-details-container img{
+    margin-top: 21px;
+    margin-left: 190px;
+    display: block;
+}
+
+.ctUS-details-container dl{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.ctUS-details-container dl dd{
+    font-size: 20px;
+    color: #548DD4;
+}
+
+.ctUS-details-container dl dt{
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.ctUS-details-container dl dt a{
+    display: inline;
+    text-decoration: underline;
+    color: #666;
+}
+
+.map{
+    width:697px;
+    height:550px;
+    border: 1px solid #CCC;
+    margin-top: 33px;
+    margin-left: 130px;
+}
+
+

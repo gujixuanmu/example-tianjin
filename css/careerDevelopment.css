@@ -1,0 +1,105 @@
+.cdp-banner{
+    margin-top: 0.006em;
+    overflow: hidden;
+}
+
+.cdp-content{
+    background-color:#E7ECF2 ;
+}
+
+.cdp-content-container{
+    width: 900px;
+    background-color: #fff;
+    margin: 0 auto;
+    height: 872px;
+}
+
+.cdp-content .cdp-content-header{
+    height: 26px;
+   padding-top: 9px;
+    margin-left: 9px;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.cdp-content .cdp-content-header h3{
+    color: #147A34;
+    float: left;
+}
+
+.cdp-content .cdp-content-header span{
+    float: left;
+    line-height: 26px;
+}
+
+.cdp-content .cdp-content-header a{
+    float: left;
+    line-height: 26px;
+    color: #0B398C;
+}
+
+.cdp-content-details{
+    height:749px;
+    width: 100%;
+}
+
+.cdp-content-menu{
+    width: 196px    ;
+    height: 834px;
+    float: left;
+}
+
+.cdp-content-text{
+    float: right;
+    width: 680px;
+    height: 834px;
+    overflow: hidden;
+}
+
+.cdp-content-menu h2,.cdp-content-menu h3,.cdp-content-menu p{
+    width: 204px;
+    height: 35px;
+    margin-top: 6px;
+    margin-left: 9px;
+}
+
+.cdp-content-menu h2{
+    line-height: 35px;
+    background-color: #1171C3;
+    color: #fff;
+}
+
+.cdp-content-menu h3{
+    line-height: 35px;
+    background-color: #7FB5E1;
+    color: #fff;
+}
+
+.cdp-content-menu p{
+    line-height: 35px;
+    border-bottom: 1px solid #D3D6E4;
+}
+
+.cdp-content-text h3{
+    width: 660px;
+    height: 26px;
+    border-bottom: 1px solid #D3D6E4;
+    padding-top: 16px;
+    padding-left: 12px;
+    color: #244693;
+}
+
+.cdp-content-text-p1{
+    padding-top: 20px;
+    padding-left: 68px;
+}
+
+.cdp-content-text .cdp-p{
+    padding-left: 45px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-indent: 2em;
+    margin-right: 54px;
+    margin-top: 56px;
+}
+

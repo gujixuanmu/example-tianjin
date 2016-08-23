@@ -1,0 +1,119 @@
+/*banner图片*/
+.index-banner{
+    position: relative;
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 0.006em;
+
+}
+
+.index-banner1{
+    position: absolute;
+}
+
+.index-banner2{
+    position: absolute;
+    display: none;
+}
+
+.index-banner3{
+    position: absolute;
+    display: none;
+}
+
+.index-banner-icoBox{
+    display: inline-block;
+    margin-top: 470px;
+    position: relative;
+    left: 80%;
+}
+
+.index-banner-icoBox a{
+    float: left;
+    width: 20px;
+    height: 6px;
+    margin-left:16px;
+    overflow: hidden;
+    background-color: #244794;
+}
+
+
+.index-banner-icoBox .firsta{
+    background-color: #fff;
+}
+
+.index-banner-ico01{
+    background-position: 2px 3px;
+
+}
+
+.index-banner-ico02{
+    background-position: 34px 3px;
+}
+
+.index-banner-ico03{
+    background-position: 65px 3px;
+}
+
+/*内容部分*/
+.index-content{
+    height: 214px;
+}
+
+.index-content-container{
+    height: 173px;
+    width: 1002px;
+    margin: 0 auto;
+    border-bottom: 1px solid #999;
+    padding-top: 20px;
+    position: relative;
+}
+
+.index-content img{
+    float: left;
+
+}
+
+.index-content-nav2 img{
+    margin-left: 20px;
+}
+
+.index-content-nav3 img{
+    margin-left: 20px;
+}
+
+.index-content-title1,.index-content-title2,.index-content-title3{
+    position: absolute;
+    color: #fff;
+    font-size: 15px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+    padding-left: 21px;
+    opacity: 0.7;
+    filter:"alpha(opacity=50)";
+    -ms-filter: "alpha(opacity=50)";/*旧版IE*/
+}
+
+.index-content-title1{
+    top:136px;
+    left: 20px;
+    margin-left: -21px;
+    background: url("../images/index-content-tit-bgd.png");
+}
+
+.index-content-title2{
+    top:136px;
+    left: 320px;
+    background: url("../images/index-content-tit-bgd.png");
+    margin-left: 20px;
+}
+
+.index-content-title3{
+    top:136px;
+    left: 640px;
+    background: url("../images/index-content-tit-bgd.png");
+    margin-left: 40px;
+}
